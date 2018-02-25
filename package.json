@@ -1,0 +1,15 @@
+{
+  "name": "icelandic-names",
+  "version": "0.1.0",
+  "description": "scraper",
+  "main": "scraper.js",
+  "repository": "https://github.com/HermannBjorgvin/icelandic-names",
+  "author": "hermannbjorgvin <hermann@hermann.id>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "jsonfile": "^4.0.0",
+    "sync-request": "^5.0.0"
+  }
+}
